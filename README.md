@@ -1,6 +1,10 @@
 # Interactive Realtime AI Boyfriend
 
-An interactive, realtime web application featuring an AI boyfriend companion with natural voice conversations, built on a modern tech stack including Next.js 15 (App Router), Shadcn/ui, and Tailwind CSS. The application leverages WebRTC for seamless bidirectional audio streaming with OpenAI's Realtime API, enabling low-latency voice interactions. The interactive avatar is powered by HeyGen Streaming Avatar SDK, providing realtime facial animations and lip-sync capabilities. The architecture supports dynamic tool calling with real-time function execution, creating a truly immersive and responsive companion experience.
+
+https://github.com/user-attachments/assets/855a6610-a889-4017-b654-9dee68af1aa6
+
+
+An interactive, realtime web application featuring an AI boyfriend companion with natural voice conversations. The application is built on WebRTC for seamless bidirectional audio streaming with OpenAI's Realtime API, enabling low-latency voice interactions. The interactive avatar is powered by HeyGen Streaming Avatar SDK, providing realtime facial animations and lip-sync capabilities. The architecture supports dynamic tool calling with real-time function execution, creating a truly immersive and responsive companion experience.
 
 ## Features
 
@@ -117,3 +121,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 - [Tailwind CSS](https://tailwindcss.com/) for styling.
 - [Simon Willison's Weblog](https://simonwillison.net/2024/Dec/17/openai-webrtc/) for inspiration
 - [Originator: skrivov](https://github.com/skrivov/openai-voice-webrtc-next) for the WebRTC and Nextjs implementation
+
