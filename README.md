@@ -3,7 +3,7 @@
 An interactive, realtime web application featuring an AI boyfriend companion with natural voice conversations. The application is built on WebRTC for seamless bidirectional audio streaming with OpenAI's Realtime API, enabling low-latency voice interactions. The interactive avatar is powered by HeyGen Streaming Avatar SDK, providing realtime facial animations and lip-sync capabilities. The architecture supports dynamic tool calling with real-time function execution, creating a truly immersive and responsive companion experience.
 
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/855a6610-a889-4017-b654-9dee68af1aa6" controls width="100%" style="max-width: 800px;">
+  <video src="https://github.com/user-attachments/assets/855a6610-a889-4017-b654-9dee68af1aa6" controls style="max-width: 800px; width: 100%; display: block; margin: 0 auto;">
     Your browser does not support the video tag.
   </video>
 </p>
